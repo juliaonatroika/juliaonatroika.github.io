@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Name</title>
+  <style>
+    body {
+      font-family: 'Times New Roman', Times, serif;
+      background-color: #fff;
+      color: #111;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 600px;
+      margin: 5rem auto;
+      padding: 0 1rem;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+    }
+    p.subtitle {
+      font-size: 1.2rem;
+      color: #666;
+      margin-top: 0;
+    }
+    a {
+      color: #007aff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    li {
+      margin-bottom: 0.5rem;
+    }
+    footer {
+      text-align: center;
+      color: #999;
+      margin-top: 4rem;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Julia Steinberg</h1>
+
+    <p>Hi! I'm Julia, GM of books at Arena.</p>
+
+    <h2>Writing</h2>
+    <ul>
+      <li><a href="#">Project One</a> – Short description goes here.</li>
+      <li><a href="#">Project Two</a> – Another description here.</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:julia@arenamag.com">julia@arenamag.com</a></p>
+    <p>Twitter: <a href="https://twitter.com/julialsteinberg">@julialsteinberg</a></p>
+
+    <footer>
+      <p>&copy; 2025 Your Name</p>
+    </footer>
+  </div>
+</body>
+</html>
